@@ -1,0 +1,8 @@
+{
+  "kind": "none",
+  "upstream": "",
+  "reason": "tracks nixpkgs channel versions; no upstream sync",
+  "version_file": "",
+  "pinned_paths": [],
+  "sync_script": ""
+}
